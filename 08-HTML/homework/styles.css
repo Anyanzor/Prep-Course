@@ -1,0 +1,44 @@
+h1{
+    color: darkred;
+    display: flex;
+    justify-content: center;
+}
+h3{
+    display: flex;
+    justify-content: center;
+}
+h4{
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: darkred;
+    padding: 50px;
+    border-width: 20px;
+    border-color: black;
+    border-style: double;
+    margin: auto;
+    display: block;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/717/122/non_2x/japanese-seamless-background-with-koi-and-waves-vector.jpg);
+    background-repeat: repeat-x;
+    background-position-x: unset;
+    background-position-y: bottom;
+    background-size: 46rem;
+}
+a {
+    display: flex;
+    justify-content: center;
+}
