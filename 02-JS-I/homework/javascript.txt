@@ -1,0 +1,10 @@
+* Variables: una variable es como una caja en donde se guarda un objeto llamado "valor" el cual se usa más tarde. 
+* Strings: una string es una cajita de texto en dónde se escribe siempre entre comillas.
+* Funciones: las funciones son objetos que se usan para modificar conjuntos de variables.
+ - Argumentos: los argumentos dentro de las funciones, se usan par darle una o varias característica al valor de las variables.
+  ~ Return: es un objeto de la función que se devuelve, pero por fuera de ella.
+* Declaraciones: son intrucciones que se le dan a una función.
+ - If: es una palabra clave que indica lo que tiene que suceder dentro de la función.
+* Valores booleanos: son valores que dan dos opciones a elegir en una función.
+ - True: indica que la función devolverá que un objeto es verdadero.
+ - False: indica que la función devolverá que un objeto es falso.
